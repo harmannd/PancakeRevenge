@@ -1,1 +1,6 @@
 C:\Users\Derek\Documents\Visual Studio 2015\Projects\PancakeRevenge\PancakeRevenge\bin\Debug\PancakeRevenge.exe.config
+C:\Users\Derek\Documents\Visual Studio 2015\Projects\PancakeRevenge\PancakeRevenge\bin\Debug\PancakeRevenge.exe
+C:\Users\Derek\Documents\Visual Studio 2015\Projects\PancakeRevenge\PancakeRevenge\bin\Debug\PancakeRevenge.pdb
+C:\Users\Derek\Documents\Visual Studio 2015\Projects\PancakeRevenge\PancakeRevenge\obj\Debug\PancakeRevenge.csprojResolveAssemblyReference.cache
+C:\Users\Derek\Documents\Visual Studio 2015\Projects\PancakeRevenge\PancakeRevenge\obj\Debug\PancakeRevenge.exe
+C:\Users\Derek\Documents\Visual Studio 2015\Projects\PancakeRevenge\PancakeRevenge\obj\Debug\PancakeRevenge.pdb

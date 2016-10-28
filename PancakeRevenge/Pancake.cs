@@ -15,14 +15,28 @@ namespace MyProject.PancakeRevenge
             sideUp = sUp;
         }
 
-        private void setSide( char sUp )
+        public void setSide( char sUp )
         {
             sideUp = sUp;
         }
 
-        private char getSide()
+        public char getSide()
         {
             return sideUp;
+        }
+
+        public override bool Equals(object obj)
+        {
+            Pancake pan = obj as Pancake;
+            if ( pan == null )
+                return false;
+            else
+                return sideUp.Equals(pan.sideUp);
+        }
+
+        public override int GetHashCode()
+        {
+            return this.sideUp.GetHashCode();
         }
     }
 }
